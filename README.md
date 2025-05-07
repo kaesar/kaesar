@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[**Portfolio** here](https://onmind.co/web/blog/en/recommended.md) 😄
+> &raquo; [**Portfolio** here](https://onmind.co/web/blog/en/recommended.md) &nbsp; 💬 &nbsp; [ [or here](https://view.genially.com/61986aa2181fb40d898b6bfa/presentation-personal-portfolio-en) ]
+
 <!--
 **kaesar/kaesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
