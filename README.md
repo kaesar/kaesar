@@ -5,6 +5,7 @@
 - [Renewed Techie Blog in Spanish](https://onmind.net)
 - [Techie Book 1 (Method) in English](https://www.amazon.com/dp/B0F7KCVFZN)
 - [Techie Book 2 (ABCode) in English](https://www.amazon.com/dp/B0FCCZH3DY)
+- [Techie Videos in Spanish](https://www.youtube.com/watch?v=jvvTAc5SxBA&list=PLg8y8tAvnYv394BnOeHgRiz_vPsoYzIML&index=10)
 <!--
 **kaesar/kaesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
