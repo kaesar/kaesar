@@ -1,15 +1,13 @@
 ## Hi there 👋
 
-> &raquo; [**Portfolio** here](https://onmind.co/web/blog/en/recommended.md) [ [or here](https://view.genially.com/61986aa2181fb40d898b6bfa/presentation-personal-portfolio-en) ] 💬
+> &raquo; [**Portfolio** here](https://onmind.net/onmind/en/about) [ [or here](https://view.genially.com/61986aa2181fb40d898b6bfa/presentation-personal-portfolio-en) ] 💬
 
 - [Renewed Techie Blog in Spanish](https://onmind.net)
 - [Techie Book 1 (Method) in English](https://www.amazon.com/dp/B0F7KCVFZN)
 - [Techie Book 2 (ABCode) in English](https://www.amazon.com/dp/B0FCCZH3DY)
 - [Techie Videos in Spanish](https://www.youtube.com/watch?v=jvvTAc5SxBA&list=PLg8y8tAvnYv394BnOeHgRiz_vPsoYzIML&index=10)
 <!--
-**kaesar/kaesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some things:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
