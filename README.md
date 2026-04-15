@@ -1,20 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Cesar Andres (kaesar)
 
-> &raquo; [**Portfolio** here](https://onmind.net/onmind/en/about) [ [or here](https://view.genially.com/61986aa2181fb40d898b6bfa/presentation-personal-portfolio-en) ] 💬
+**Solutions Architect | AI-Assisted Development | AWS Cloud | Java + Node.js/TS**
 
-- [Renewed Techie Blog in Spanish](https://onmind.net)
-- [Techie Book 1 (Method) in English](https://www.amazon.com/dp/B0F7KCVFZN)
-- [Techie Book 2 (ABCode) in English](https://www.amazon.com/dp/B0FCCZH3DY)
-- [Techie Videos in Spanish](https://www.youtube.com/watch?v=jvvTAc5SxBA&list=PLg8y8tAvnYv394BnOeHgRiz_vPsoYzIML&index=10)
-<!--
-Here are some things:
+> I design and build scalable, high-performance software architectures with focus on AI-assisted development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Availability](https://img.shields.io/badge/Available_for_remote_projects-00C853?style=for-the-badge)
+![Rate](https://img.shields.io/badge/Starting_at_$55_USD/hour-FF6B00?style=for-the-badge)
+
+---
+
+### 🚀 Full Portfolio
+
+**[View Portfolio →](https://onmind.net/onmind/en/about)**
+
+> Explore my complete ecosystem: OnMind Platform, custom databases, programming languages, and real-world architecture solutions.
+
+---
+
+### 🛠️ Core Technologies
+
+- **Backend**: Java • Node.js/Bun • TypeScript • Kotlin • Python • SQL • NoSQL  
+- **Cloud & Infrastructure**: AWS (Solutions Architect Associate in progress)  
+- **Databases**: XDB (lightweight embedded DB) • WDB (cloud version) • PostgreSQL • MySQL • DynamoDB  
+- **Other**: ABCode (my own programming language) • Bun • Low-code platforms • AI-assisted workflows
+
+---
+
+### 🔥 Featured Projects
+
+- **[XDB – eXpress DataBase](https://github.com/kaesar/onmind-xdb)** — Lightweight embedded database engine  
+- **[ABCode](https://github.com/kaesar/abcode)** — Custom programming language & transpiler
+- **[PUB – Pages, Universes & Blogs](https://github.com/kaesar/onmind-pub)** — Static site generator with workflow
+- **[HAL – Home Apps Labs](https://github.com/kaesar/onmind-hal)** — Homelab service manager
+- **[OnMind Platform](https://onmind.net)** — Full low-code suite (10+ business apps: CMS, CRM, eCommerce, Payroll, Inventory, etc.)  
+
+---
+
+### 📚 Books & Content
+
+- [OnMind Method (English)](https://www.amazon.com/dp/B0F7KCVFZN)  
+- [ABCode Programming Language (English)](https://www.amazon.com/dp/B0FCCZH3DY)  
+- [Technical Blog – 200+ articles](https://onmind.net)  
+- [All Books](https://onmind.co/web/andrey/es/books/)
+
+### 📺 Technical Videos
+[Watch the playlist on YouTube](https://www.youtube.com/watch?v=jvvTAc5SxBA&list=PLg8y8tAvnYv394BnOeHgRiz_vPsoYzIML)
+
+---
+
+### 💼 Open to Opportunities
+
+**Remote Freelance & Consulting**  
+- Solution Architecture
+- Software Solutions Manager  
+- AI-Assisted Development  
+- AWS Cloud Architecture  
+- Custom Low-code Solutions  
+
+**Rate:** Starting at **$55 USD per hour** (or fixed-price packages)  
+**Location:** Colombia (excellent overlap with US and European time zones)
+
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/andresarcila/)**
+
+---
+
+*Built with passion in Colombia 🇨🇴 • Open source enthusiast & independent creator*
