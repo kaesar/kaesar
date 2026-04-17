@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cesar Andres (kaesar)
+# 👋 Hi, I'm César Andrés A.
 
 **Solutions Architect | AI-Assisted Development | AWS Cloud | Java + Node.js/TS + Python**
 
