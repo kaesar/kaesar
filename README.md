@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Cesar Andres (kaesar)
 
-**Solutions Architect | AI-Assisted Development | AWS Cloud | Java + Node.js/TS**
+**Solutions Architect | AI-Assisted Development | AWS Cloud | Java + Node.js/TS + Python**
 
 > I design and build scalable, high-performance software architectures with focus on AI-assisted development.
 
 ![Availability](https://img.shields.io/badge/Available_for_remote_projects-00C853?style=for-the-badge)
-![Rate](https://img.shields.io/badge/Starting_at_$55_USD/hour-FF6B00?style=for-the-badge)
+![Rate](https://img.shields.io/badge/Starting_at_$60_USD/hour-FF6B00?style=for-the-badge)
 
 ---
 
@@ -22,7 +22,7 @@
 - **Backend**: Java • Node.js/Bun • TypeScript • Kotlin • Python • SQL • NoSQL  
 - **Cloud & Infrastructure**: AWS (Solutions Architect Associate in progress)  
 - **Databases**: XDB (lightweight embedded DB) • WDB (cloud version) • PostgreSQL • MySQL • DynamoDB  
-- **Other**: ABCode (my own programming language) • Bun • Low-code platforms • AI-assisted workflows
+- **Others**: ABCode (my own programming language) • Bun • Low-code platforms • AI-assisted workflows
 
 ---
 
@@ -55,9 +55,10 @@
 - Software Solutions Manager  
 - AI-Assisted Development  
 - AWS Cloud Architecture  
-- Custom Low-code Solutions  
+- Custom Low-code Solutions
+- Proof of Concept • Prototypes • MVP
 
-**Rate:** Starting at **$55 USD per hour** (or fixed-price packages)  
+**Rate:** Starting at **$60 USD per hour** (or fixed-price packages)  
 **Location:** Colombia (excellent overlap with US and European time zones)
 
 **[Connect with me on LinkedIn](https://www.linkedin.com/in/andresarcila/)**
