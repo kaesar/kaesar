@@ -5,7 +5,7 @@
 > I design and build scalable, high-performance software architectures with focus on AI-assisted development.
 
 ![Availability](https://img.shields.io/badge/Available_for_remote_projects-00C853?style=for-the-badge)
-![Rate](https://img.shields.io/badge/Starting_at_$60_USD/hour-FF6B00?style=for-the-badge)
+![Rate](https://img.shields.io/badge/Starting_at_$40_USD/hour-FF6B00?style=for-the-badge)
 
 ---
 
@@ -19,19 +19,20 @@
 
 ### 🛠️ Core Technologies
 
-- **Backend**: Java • Node.js/Bun • TypeScript • Kotlin • Python • SQL • NoSQL  
-- **Cloud & Infrastructure**: AWS (Solutions Architect Associate in progress)  
-- **Databases**: XDB (lightweight embedded DB) • WDB (cloud version) • PostgreSQL • MySQL • DynamoDB  
+- **Backend**: Java • Node.js/Bun • TypeScript • Python • Kotlin • SQL • NoSQL  
+- **Cloud & Infrastructure**: AWS+ • Azure • Cloudflare • Containers (Docker & Kubernetes)  
+- **Databases**: OnMind-XDB (my lightweight embedded DB) • PostgreSQL • MySQL • DynamoDB  
 - **Others**: ABCode (my own programming language) • Bun • Low-code platforms • AI-assisted workflows
 
 ---
 
 ### 🔥 Featured Projects
 
-- **[XDB – eXpress DataBase](https://github.com/kaesar/onmind-xdb)** — Lightweight embedded database engine  
 - **[ABCode](https://github.com/kaesar/abcode)** — Custom programming language & transpiler
-- **[PUB – Pages, Universes & Blogs](https://github.com/kaesar/onmind-pub)** — Static site generator with workflow
-- **[HAL – Home Apps Labs](https://github.com/kaesar/onmind-hal)** — Homelab service manager
+- **[OnMind-XDB – eXpress DataBase](https://github.com/kaesar/onmind-xdb)** — Lightweight embedded database engine
+- **[OnMind-XID – eXpress IDentity](https://github.com/kaesar/onmind-xdb)** — Lightweight IdP and simple IAM service to authentication  
+- **[OnMind-PUB – Pages, Universes & Blogs](https://github.com/kaesar/onmind-pub)** — Static site generator with workflow
+- **[OnMind-HAL – Home Apps Labs](https://github.com/kaesar/onmind-hal)** — Homelab service manager
 - **[OnMind Platform](https://onmind.net)** — Full low-code suite (10+ business apps: CMS, CRM, eCommerce, Payroll, Inventory, etc.)  
 
 ---
@@ -58,7 +59,7 @@
 - Custom Low-code Solutions
 - Proof of Concept • Prototypes • MVP
 
-**Rate:** Starting at **$60 USD per hour** (or fixed-price packages)  
+**Rate:** Starting at **$40 USD per hour** (or fixed-price packages)  
 **Location:** Colombia (excellent overlap with US and European time zones)
 
 **[Connect with me on LinkedIn](https://www.linkedin.com/in/andresarcila/)**
